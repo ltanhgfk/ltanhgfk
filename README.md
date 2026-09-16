@@ -17,7 +17,9 @@ My professional experience in public-sector tax administration has also given me
 - LLM-based Systems
 - Data-driven Applications
 - AI for Public-Sector and Real-World Decision Support
-
+- Anomaly Detection and Predictive Analytics
+- Trustworthy and Human-Centered AI
+  
 ## Selected Projects
 
 ### Machine Learning-Based Decision Support System
